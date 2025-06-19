@@ -51,7 +51,7 @@
   </p>
 
   <p>
-    These projects involve infrastructure, cyber-security monitoring, API systems and operational panels — but due to <strong>non-disclosure agreements and exclusivity agreements (NDAs)</strong>, I’m unable to share specific details publicly.
+    These projects involve infrastructure, cyber-security monitoring, API systems and operational panels — but due to <strong>non-disclosure agreements (NDAs) and exclusivity agreements</strong>, I’m unable to share specific details publicly.
   </p>
 
   <p>
