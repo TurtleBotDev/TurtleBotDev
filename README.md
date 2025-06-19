@@ -47,7 +47,7 @@
 <div align="center" style="max-width: 800px; margin: auto;">
 
   <p>
-    While I have a few limited public repo's, I’ve also worked on several other software systems in professional and collaborative environments.
+    While I have a few limited public repos, I’ve also worked on several other software systems in professional and collaborative environments.
   </p>
 
   <p>
