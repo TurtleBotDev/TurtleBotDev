@@ -12,7 +12,7 @@
 <h2 align="center">👨‍🚀 About Me</h2>
 
 <p align="center">
-  I'm Alex — a software engineer who likes to understand how the world works.
+ Hi! I'm Alex — a software engineer who likes to understand how the world works.
 </p>
 
 <p align="center">
