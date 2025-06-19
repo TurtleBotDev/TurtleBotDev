@@ -17,11 +17,11 @@
 
 <p align="center">
   I’ve always been curious about the mechanisms behind everyday things - how flipping a switch brings light to a room, or how digital systems move money in milliseconds.<br>
-  Whether it’s the physics behind it, the automation driving it, or the geopolitics shaping it, I find it fascinating how everything fits together into the fabric of modern life.
+  Whether it’s the physics behind it, the automation driving it, or the geopolitics shaping it, I find it fascinating how everything fits together into the world.
 </p>
 
 <p align="center">
-  That mindset shapes how I build software: with attention to the bigger picture, and respect for the systems it fits into.
+  This shapes how I write code: with attention to the bigger picture, and respect for the systems it fits into.
 </p>
 <br><br>
 <h2 align="center">🌱 Featured Project: GrassGame</h2>
