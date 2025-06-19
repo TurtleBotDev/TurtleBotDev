@@ -17,7 +17,7 @@
 
 <p align="center">
   I’ve always been curious about the mechanisms behind everyday things - how flipping a switch brings light to a room, or how digital systems move money in milliseconds.<br>
-  Whether it’s the physics behind it, the automation driving it, or the geopolitics shaping it — I find it fascinating how everything fits together into the fabric of modern life.
+  Whether it’s the physics behind it, the automation driving it, or the geopolitics shaping it, I find it fascinating how everything fits together into the fabric of modern life.
 </p>
 
 <p align="center">
